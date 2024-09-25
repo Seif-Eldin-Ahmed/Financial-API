@@ -13,10 +13,6 @@ This project is about a comprehensive financial API, that lets us add and get al
 - CSS
 
 #
-### What software we used for the testing:
-Postman API platform
-
-#
 ### The idea of the project work:
 1. We can add a **super user** with special permissions or add a **regular user** from the **_API_** or **_admin_** paths.
 2. We can add new categories and financial transactions with specific users and fully control them from the **_API_** or **_admin_** paths.
@@ -29,6 +25,10 @@ Postman API platform
 5. We can also _update_, _delete_, or _post_ a transaction through the _**API**_ and _**admin**_.
 
 #
+### What software we used for the testing:
+Postman API platform
+
+#
 ## Risks we faced in the project:
-Work on connecting all users from the _admin_ path to the _API_ transactions, collecting user data(_fields_) and all his transactions and adding them together into a report.
+Work on connecting all users from the _admin_ path to the _API_ transactions, collecting user data(_fields_) and all his transactions, and adding them to a report.
    
