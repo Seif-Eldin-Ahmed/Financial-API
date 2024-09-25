@@ -30,5 +30,5 @@ Postman API platform
 
 #
 ### Risks we faced in the project:
-Work on connecting all users from the _admin_ path to the _API_ transactions, collecting user data(_fields_) and all his transactions, and adding them to a report.
+Work on connecting all users from the _admin_ path to the _API_ transactions, collecting user data(fields) and all his transactions, and adding them to a report.
    
