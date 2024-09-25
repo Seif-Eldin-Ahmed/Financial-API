@@ -17,7 +17,7 @@ This project is about a comprehensive financial API, that lets us add and get al
 5. We can also _update_, _delete_, or _post_ a transaction through the _**API**_ and _**admin**_.
 
 #
-### What languages and tools are used in the project:
+### What languages and frameworks are used in the project:
 - Python
 - Django 
 - Django Rest Framework (DRF)
